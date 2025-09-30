@@ -51,7 +51,7 @@ Modelar y simular el proceso de **descarga de camiones** en un supermercado para
 ---
 
 ## 📂 Recursos
-- [📄 Informe técnico (PDF)](./Informe_simulacion.pdf)  
+- [📄 Informe técnico (PDF)](./Informe_simulacion_Problema_De_Ingenieria.pdf)  
 - [⚙️ Modelo Simulink (.slx)](./v40.slx)
 
 ---
